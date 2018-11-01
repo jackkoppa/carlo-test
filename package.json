@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jackkoppa/carlo-test/issues"
   },
-  "homepage": "https://github.com/jackkoppa/carlo-test#readme"
+  "homepage": "https://github.com/jackkoppa/carlo-test#readme",
+  "dependencies": {
+    "carlo": "^0.9.7"
+  }
 }
